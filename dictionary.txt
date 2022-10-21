@@ -22,3 +22,5 @@ Doener
 Apfelkuchen - Apple Cake
 Schloss - lock
 Eltz
+Gesperrt - locked
+Eingefroren - froze
